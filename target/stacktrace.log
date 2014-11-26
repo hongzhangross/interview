@@ -1,0 +1,514 @@
+2014-11-25 23:05:43,734 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:05:38 CST 2014
+|     |           false
+|     Tue Nov 25 23:05:41 CST 2014
+com.lerss.ent.api.BlogEntryDTO@c887bf
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:05:43,875 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:05:38 CST 2014
+|     |           false
+|     Tue Nov 25 23:05:41 CST 2014
+com.lerss.ent.api.BlogEntryDTO@c887bf
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:05:43,890 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:05:38 CST 2014
+|     |           false
+|     Tue Nov 25 23:05:41 CST 2014
+com.lerss.ent.api.BlogEntryDTO@c887bf
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:05:43,890 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:05:38 CST 2014
+|     |           false
+|     Tue Nov 25 23:05:41 CST 2014
+com.lerss.ent.api.BlogEntryDTO@c887bf
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:05:44,125 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:05:38 CST 2014
+|     |           false
+|     Tue Nov 25 23:05:41 CST 2014
+com.lerss.ent.api.BlogEntryDTO@c887bf
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:05:44,125 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:05:38 CST 2014
+|     |           false
+|     Tue Nov 25 23:05:41 CST 2014
+com.lerss.ent.api.BlogEntryDTO@c887bf
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:14:24,971 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:14:22 CST 2014
+|     |           false
+|     Tue Nov 25 23:14:24 CST 2014
+com.lerss.ent.api.BlogEntryDTO@6644d8
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:14:25,033 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:14:22 CST 2014
+|     |           false
+|     Tue Nov 25 23:14:24 CST 2014
+com.lerss.ent.api.BlogEntryDTO@6644d8
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:14:25,033 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:14:22 CST 2014
+|     |           false
+|     Tue Nov 25 23:14:24 CST 2014
+com.lerss.ent.api.BlogEntryDTO@6644d8
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:14:25,033 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:14:22 CST 2014
+|     |           false
+|     Tue Nov 25 23:14:24 CST 2014
+com.lerss.ent.api.BlogEntryDTO@6644d8
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:14:25,205 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:14:22 CST 2014
+|     |           false
+|     Tue Nov 25 23:14:24 CST 2014
+com.lerss.ent.api.BlogEntryDTO@6644d8
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:14:25,205 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:14:22 CST 2014
+|     |           false
+|     Tue Nov 25 23:14:24 CST 2014
+com.lerss.ent.api.BlogEntryDTO@6644d8
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:17:54,046 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:17:51 CST 2014
+|     |           false
+|     Tue Nov 25 23:17:53 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1597ac4
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:17:54,093 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:17:51 CST 2014
+|     |           false
+|     Tue Nov 25 23:17:53 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1597ac4
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:17:54,109 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:17:51 CST 2014
+|     |           false
+|     Tue Nov 25 23:17:53 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1597ac4
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:17:54,109 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:17:51 CST 2014
+|     |           false
+|     Tue Nov 25 23:17:53 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1597ac4
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:17:54,296 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:17:51 CST 2014
+|     |           false
+|     Tue Nov 25 23:17:53 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1597ac4
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:17:54,296 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:17:51 CST 2014
+|     |           false
+|     Tue Nov 25 23:17:53 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1597ac4
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:21:06,007 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:21:03 CST 2014
+|     |           false
+|     Tue Nov 25 23:21:05 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1d81f8e
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:21:06,069 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:21:03 CST 2014
+|     |           false
+|     Tue Nov 25 23:21:05 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1d81f8e
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:21:06,085 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:21:03 CST 2014
+|     |           false
+|     Tue Nov 25 23:21:05 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1d81f8e
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:21:06,085 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:21:03 CST 2014
+|     |           false
+|     Tue Nov 25 23:21:05 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1d81f8e
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:21:06,288 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:21:03 CST 2014
+|     |           false
+|     Tue Nov 25 23:21:05 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1d81f8e
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:21:06,288 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:21:03 CST 2014
+|     |           false
+|     Tue Nov 25 23:21:05 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1d81f8e
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:26:59,510 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.runtime.metaclass.MethodSelectionException: Could not find which method add() to invoke from this list:
+  public abstract boolean java.util.List#add(java.lang.Object)
+  public abstract void java.util.List#add(int, java.lang.Object)
+	at interview.BlogFacadeService.$tt__getRecentEntries_closure3(BlogFacadeService.groovy:23)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at groovy.lang.Closure.call(Closure.java:439)
+	at interview.BlogFacadeService.$tt__getRecentEntries(BlogFacadeService.groovy:20)
+	at interview.BlogFacadeService.getRecentEntries_closure1(BlogFacadeService.groovy)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at groovy.lang.Closure.call(Closure.java:439)
+	at org.codehaus.groovy.grails.orm.support.GrailsTransactionTemplate$2.doInTransaction(GrailsTransactionTemplate.groovy:88)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:133)
+	at org.codehaus.groovy.grails.orm.support.GrailsTransactionTemplate.execute(GrailsTransactionTemplate.groovy:85)
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:26)
+2014-11-25 23:26:59,557 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.runtime.metaclass.MethodSelectionException: Could not find which method add() to invoke from this list:
+  public abstract boolean java.util.List#add(java.lang.Object)
+  public abstract void java.util.List#add(int, java.lang.Object)
+	at interview.BlogFacadeService.$tt__getRecentEntries_closure3(BlogFacadeService.groovy:23)
+	at interview.BlogFacadeService.$tt__getRecentEntries(BlogFacadeService.groovy:20)
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:26)
+2014-11-25 23:26:59,572 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.runtime.metaclass.MethodSelectionException: Could not find which method add() to invoke from this list:
+  public abstract boolean java.util.List#add(java.lang.Object)
+  public abstract void java.util.List#add(int, java.lang.Object)
+	at interview.BlogFacadeService.$tt__getRecentEntries_closure3(BlogFacadeService.groovy:23)
+	at interview.BlogFacadeService.$tt__getRecentEntries(BlogFacadeService.groovy:20)
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:26)
+2014-11-25 23:26:59,572 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.runtime.metaclass.MethodSelectionException: Could not find which method add() to invoke from this list:
+  public abstract boolean java.util.List#add(java.lang.Object)
+  public abstract void java.util.List#add(int, java.lang.Object)
+	at interview.BlogFacadeService.$tt__getRecentEntries_closure3(BlogFacadeService.groovy:23)
+	at interview.BlogFacadeService.$tt__getRecentEntries(BlogFacadeService.groovy:20)
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:26)
+2014-11-25 23:26:59,713 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.runtime.metaclass.MethodSelectionException: Could not find which method add() to invoke from this list:
+  public abstract boolean java.util.List#add(java.lang.Object)
+  public abstract void java.util.List#add(int, java.lang.Object)
+	at interview.BlogFacadeService.$tt__getRecentEntries_closure3(BlogFacadeService.groovy:23)
+	at interview.BlogFacadeService.$tt__getRecentEntries(BlogFacadeService.groovy:20)
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:26)
+2014-11-25 23:26:59,713 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.runtime.metaclass.MethodSelectionException: Could not find which method add() to invoke from this list:
+  public abstract boolean java.util.List#add(java.lang.Object)
+  public abstract void java.util.List#add(int, java.lang.Object)
+	at interview.BlogFacadeService.$tt__getRecentEntries_closure3(BlogFacadeService.groovy:23)
+	at interview.BlogFacadeService.$tt__getRecentEntries(BlogFacadeService.groovy:20)
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:26)
+2014-11-25 23:29:34,145 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:29:31 CST 2014
+|     |           false
+|     Tue Nov 25 23:29:33 CST 2014
+com.lerss.ent.api.BlogEntryDTO@a4910d
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:29:34,207 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:29:31 CST 2014
+|     |           false
+|     Tue Nov 25 23:29:33 CST 2014
+com.lerss.ent.api.BlogEntryDTO@a4910d
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:29:34,207 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:29:31 CST 2014
+|     |           false
+|     Tue Nov 25 23:29:33 CST 2014
+com.lerss.ent.api.BlogEntryDTO@a4910d
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:29:34,207 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:29:31 CST 2014
+|     |           false
+|     Tue Nov 25 23:29:33 CST 2014
+com.lerss.ent.api.BlogEntryDTO@a4910d
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:29:34,426 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:29:31 CST 2014
+|     |           false
+|     Tue Nov 25 23:29:33 CST 2014
+com.lerss.ent.api.BlogEntryDTO@a4910d
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:29:34,426 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:29:31 CST 2014
+|     |           false
+|     Tue Nov 25 23:29:33 CST 2014
+com.lerss.ent.api.BlogEntryDTO@a4910d
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:31)
+2014-11-25 23:34:28,913 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:34:25 CST 2014
+|     |           false
+|     Tue Nov 25 23:34:27 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1723d2f
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-25 23:34:29,022 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:34:25 CST 2014
+|     |           false
+|     Tue Nov 25 23:34:27 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1723d2f
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-25 23:34:29,038 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:34:25 CST 2014
+|     |           false
+|     Tue Nov 25 23:34:27 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1723d2f
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-25 23:34:29,038 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:34:25 CST 2014
+|     |           false
+|     Tue Nov 25 23:34:27 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1723d2f
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-25 23:34:29,304 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:34:25 CST 2014
+|     |           false
+|     Tue Nov 25 23:34:27 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1723d2f
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-25 23:34:29,304 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Tue Nov 25 23:34:25 CST 2014
+|     |           false
+|     Tue Nov 25 23:34:27 CST 2014
+com.lerss.ent.api.BlogEntryDTO@1723d2f
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-26 13:18:53,300 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-26 13:18:54,003 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-26 13:18:54,003 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-26 13:18:54,003 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-26 13:18:54,956 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+2014-11-26 13:18:54,956 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)

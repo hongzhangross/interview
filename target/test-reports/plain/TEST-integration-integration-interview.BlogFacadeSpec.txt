@@ -1,0 +1,31 @@
+Testsuite: interview.BlogFacadeSpec
+Tests run: 1, Failures: 1, Errors: 0, Time elapsed: 16.954 sec
+------------- Standard Output ---------------
+--Output from newly published blog should at top of recent blog entries--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from newly published blog should at top of recent blog entries--
+------------- ---------------- ---------------
+
+Testcase: newly published blog should at top of recent blog entries took 16.579 sec
+	FAILED
+Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+

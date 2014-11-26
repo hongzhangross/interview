@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="789IT-411110859" id="0" name="BlogFacadeSpec" package="interview" tests="1" time="16.954" timestamp="2014-11-26T05:18:37">
+      <properties />
+
+      <testcase classname="interview.BlogFacadeSpec" name="newly published blog should at top of recent blog entries" time="16.954">
+          <failure message="Condition not satisfied:&#xa;&#xa;entry.dateCreated == now&#xa;|     |           |  |&#xa;|     |           |  Wed Nov 26 13:18:40 CST 2014&#xa;|     |           false&#xa;|     Wed Nov 26 13:18:46 CST 2014&#xa;com.lerss.ent.api.BlogEntryDTO@e6ece7&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+entry.dateCreated == now
+|     |           |  |
+|     |           |  Wed Nov 26 13:18:40 CST 2014
+|     |           false
+|     Wed Nov 26 13:18:46 CST 2014
+com.lerss.ent.api.BlogEntryDTO@e6ece7
+
+	at interview.BlogFacadeSpec.newly published blog should at top of recent blog entries(BlogFacadeSpec.groovy:30)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from newly published blog should at top of recent blog entries--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from newly published blog should at top of recent blog entries--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
