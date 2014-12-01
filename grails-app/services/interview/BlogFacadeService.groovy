@@ -17,9 +17,9 @@ class BlogFacadeService implements BlogFacade {
 		def blogEntries = BlogEntry.list(offset: 0, max: n)
     	def list = new ArrayList<BlogEntryDTO>();
 		list = blogEntries.collect {it->
-		      return new BlogEntryDTO(title: it.title, content: it.content, dateCreated: it.dateCreated)
+		      new BlogEntryDTO(title: it.title, content: it.content, dateCreated: it.dateCreated)
 		}
-        return list
+        list
 	 }
  
     /**
@@ -33,16 +33,9 @@ class BlogFacadeService implements BlogFacade {
     	def blog = new BlogEntry(title: entry.title, content: entry.content)
 		blog.dateCreated = entry.dateCreated
     	try {
-		if(!blog.save()) {
-		   blog.errors.allErrors.each {
-		        logger.info(it)
-		    }
-		}
-		else {
-		   flush: true
-		}
+		   iblog.save(flush:true)
 		}catch(Exception e) {
-		   e.printStackTrace();
+		  throw new RuntimeException()
 		}
     }
 }
